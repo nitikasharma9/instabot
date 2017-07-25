@@ -3,7 +3,7 @@ from termcolor import colored
 from textblob import TextBlob
 from textblob.sentiments import NaiveBayesAnalyzer          #importing library to check negativity and positivity of a comment
 
-APP_ACCESS_TOKEN ='5701374384.6a7409d.6f1f926003d14c6b9a5a603181e5636b'     #token of id :nikki_mikki
+APP_ACCESS_TOKEN ='***********************'     #Generate your acess token by yourself..from your side ..
 #Sandbox Users :
 
 BASE_URL = 'https://api.instagram.com/v1/'
